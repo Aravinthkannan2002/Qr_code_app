@@ -7,7 +7,9 @@ Here’s a similar structure for a **QR Code Scanner** project:
 A **simple and efficient** QR Code Scanner mobile app built using **Flutter** to enable quick and seamless scanning of QR codes. The app supports scanning and displaying results, ideal for users needing instant access to QR-based data.  
 
 ## 📸 Screenshots  
-![iphone-hand-psd-mockup](https://github.com/user-attachments/assets/acfd4d4c-49f2-4f09-9013-32bf94816589)
+
+![qr_code_scanner](https://github.com/user-attachments/assets/b30d2c68-49cc-4eb0-91f4-2928e2431894)
+
 
 
 ## 🎯 Features  
