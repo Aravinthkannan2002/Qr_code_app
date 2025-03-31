@@ -10,8 +10,6 @@ A **simple and efficient** QR Code Scanner mobile app built using **Flutter** to
 ![iphone-hand-psd-mockup](https://github.com/user-attachments/assets/acfd4d4c-49f2-4f09-9013-32bf94816589)
 
 
-_(Replace the URL with the actual image path in your repository.)_
-
 ## 🎯 Features  
 ✅ Scan QR codes and barcodes  
 ✅ Display results instantly  
